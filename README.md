@@ -1,2 +1,2 @@
-# Proyecto_Integrador_-PIN-
+# Proyecto_Integrador_PIN
 Proyecto Integrador (PIN) para la certificación FULLSTACK.
